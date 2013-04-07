@@ -1,12 +1,10 @@
 ---
 layout: page
 title: Hello World!
-tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-testing a list
-
-  - 1. somethinf
-  - 2. else
-
+{% for post in site.posts limit 3 %}
+<h3>{{ post.title }} {% if post.tagline %} <small>{{ post.tagline }}</small>{% endif %}</h3>
+{{ post.content }}
+{% endfor %}

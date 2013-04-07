@@ -2,109 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4786deb9-e893-4033-a747-a1dd2137c80c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2013-04-07-underscore-query.md" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\_posts\core-samples\2011-12-29-jekyll-introduction.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\changelog.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-Bold-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-Bold-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-Bold-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-Bold-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-BoldItalic-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-BoldItalic-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-BoldItalic-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-BoldItalic-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-Italic-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-Italic-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-Italic-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-Italic-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-Light-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-Light-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-Light-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-Light-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-LightItalic-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-LightItalic-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-LightItalic-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-LightItalic-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-Regular-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-Regular-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-Regular-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-Regular-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-Semibold-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-Semibold-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-Semibold-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-Semibold-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-SemiboldItalic-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-SemiboldItalic-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-SemiboldItalic-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\fonts\OpenSans-SemiboldItalic-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\images\bullet.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\images\hr.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\images\nav-bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\javascripts\respond.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-Bold-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-Bold-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-Bold-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-Bold-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-BoldItalic-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-BoldItalic-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-BoldItalic-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-BoldItalic-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-Italic-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-Italic-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-Italic-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-Italic-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-Light-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-Light-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-Light-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-Light-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-LightItalic-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-LightItalic-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-LightItalic-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-LightItalic-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-Regular-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-Regular-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-Regular-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-Regular-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-Semibold-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-Semibold-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-Semibold-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-Semibold-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-SemiboldItalic-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-SemiboldItalic-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-SemiboldItalic-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\fonts\OpenSans-SemiboldItalic-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\images\bullet.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\images\hr.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\images\nav-bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\javascripts\respond.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\stylesheets\ie.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\stylesheets\normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\stylesheets\pygment_trac.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\old\stylesheets\styles.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\params.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\stylesheets\ie.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\stylesheets\normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\stylesheets\pygment_trac.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\stylesheets\styles.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/themes/dave/post.html" afterPath="$PROJECT_DIR$/_includes/themes/dave/post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/themes/dave/default.html" afterPath="$PROJECT_DIR$/_includes/themes/dave/default.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="davidgtonge.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/settings.yml" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365357974007" ignored="false" />
-    <file path="/default.html" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365362564386" ignored="false" />
+    <file path="/default.html" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365365948322" ignored="false" />
     <file path="/page.html" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365358042841" ignored="false" />
     <file path="/post.html" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365358046163" ignored="false" />
     <file path="/_config.yml" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365364280033" ignored="false" />
     <file path="/styles.css" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365363255393" ignored="false" />
     <file path="/2013-04-07-new-jekyll-powered-blog.md" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365364524925" ignored="false" />
-    <file path="/index.md" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365364693996" ignored="false" />
+    <file path="/index.md" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365366222854" ignored="false" />
     <file path="/2013-04-07-underscore-query.md" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365365215325" ignored="false" />
-    <file path="/Dummy.txt" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365365439361" ignored="false" />
+    <file path="/Dummy.txt" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365365527051" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,52 +76,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_config.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="19" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2013-04-07-underscore-query.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2013-04-07-underscore-query.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="14" selection-start="402" selection-end="402" vertical-scroll-proportion="-10.88">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="138" selection-end="138" vertical-scroll-proportion="-7.48">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="categories.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/categories.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="404.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="404.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/404.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -217,7 +88,19 @@
       <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/themes/dave/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="28" selection-start="2318" selection-end="2318" vertical-scroll-proportion="-9.153846">
+            <state line="31" column="47" selection-start="1324" selection-end="1324" vertical-scroll-proportion="-2.6153846">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="18" selection-start="213" selection-end="213" vertical-scroll-proportion="0.25373134">
               <folding />
             </state>
           </provider>
@@ -226,14 +109,41 @@
       <file leaf-file-name="post.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/themes/dave/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="68" selection-start="475" selection-end="475" vertical-scroll-proportion="-9.807693">
+            <state line="0" column="0" selection-start="0" selection-end="107" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="categories.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/categories.html">
+      <file leaf-file-name="pages_list" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/JB/pages_list">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="posts_collate" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/JB/posts_collate">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="analytics" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/JB/analytics">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pages.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
@@ -241,19 +151,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="archive.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/archive.html">
+      <file leaf-file-name="settings.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/themes/dave/settings.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="404.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/404.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -282,15 +183,15 @@
         <option value="$PROJECT_DIR$/_layouts/page.html" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_includes/themes/dave/page.html" />
-        <option value="$PROJECT_DIR$/_includes/themes/dave/default.html" />
         <option value="$PROJECT_DIR$/assets/themes/dave/stylesheets/styles.css" />
         <option value="$PROJECT_DIR$/_posts/2013-04-07-new-jekyll-powered-blog.md" />
         <option value="$PROJECT_DIR$/_site/archive.html" />
-        <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/_site/404.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2013-04-07-underscore-query.md" />
         <option value="$PROJECT_DIR$/_includes/themes/dave/post.html" />
+        <option value="$PROJECT_DIR$/_includes/themes/dave/default.html" />
+        <option value="$PROJECT_DIR$/index.md" />
       </list>
     </option>
   </component>
@@ -411,6 +312,10 @@
               <option name="myItemId" value="_includes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -528,11 +433,16 @@
       <created>1365339777846</created>
       <updated>1365339777846</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1365365534090</created>
+      <updated>1365365534090</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -543,11 +453,12 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="RESTClient" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -595,7 +506,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -608,70 +519,12 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/themes/dave/stylesheets/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="881" column="24" selection-start="20732" selection-end="20732" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-04-07-new-jekyll-powered-blog.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="114" selection-end="114" vertical-scroll-proportion="-4.76">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/tags.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/pages.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/davidgtonge.github.io.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/categories.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/archive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/404.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -686,36 +539,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/themes/dave/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="28" selection-start="2318" selection-end="2318" vertical-scroll-proportion="-9.153846">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/themes/dave/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="68" selection-start="475" selection-end="475" vertical-scroll-proportion="-9.807693">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2013-04-07-underscore-query.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="14" selection-start="402" selection-end="402" vertical-scroll-proportion="-10.88">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="138" selection-end="138" vertical-scroll-proportion="-7.48">
           <folding />
         </state>
       </provider>
@@ -730,6 +559,86 @@
     <entry file="file://$PROJECT_DIR$/404.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/themes/dave/settings.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/JB/pages_list">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/JB/comments">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/JB/tags_list">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/JB/categories_list">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/JB/posts_collate">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/JB/analytics">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/themes/dave/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="47" selection-start="1324" selection-end="1324" vertical-scroll-proportion="-2.6153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/themes/dave/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="107" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="18" selection-start="213" selection-end="213" vertical-scroll-proportion="0.25373134">
           <folding />
         </state>
       </provider>
