@@ -12,5 +12,5 @@ Can we have some coffeescript please:
 
 ```coffeescript
 for a in test
-  alert a
+  console.log a
 ```
