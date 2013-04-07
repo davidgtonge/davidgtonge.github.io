@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+    <meta name="author" content="{{ site.author.name }}">
+
+    <link rel="stylesheet" href="{{ ASSET_PATH }}/stylesheets/styles.css">
+    <link rel="stylesheet" href="{{ ASSET_PATH }}/stylesheets/pygment_trac.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="{{ ASSET_PATH }}/javascripts/respond.js"></script>
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="{{ ASSET_PATH }}/stylesheets/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <!-- atom & rss feed -->
+    <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+
+  </head>
+
+  <body>
+  <div id="header">
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        {% assign pages_list = site.pages %}
+        {% assign group = 'navigation' %}
+        {% include JB/pages_list %}
+        <li><a href="https://github.com/davidgtonge">Github Profile</a></li>
+        <li><a href="http://simplecreativity.co.uk">Consultancy</a></li>
+      </ul>
+    </nav>
+  </div><!-- end header -->
+
+  <div class="wrapper">
+    <section>
+      <div id="title">
+        <h1>
+          <span class="blue">simple</span> <span class="green">creativity</span>
+          <span class="small">thoughts and code from a uk developer</span>
+        </h1>
+        <hr>
+      </div>
+      {{ content }}
+    </section>
+  </div>
+
+  <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+
+  <footer>
+    <div class="wrapper">
+      <nav><a href="/">Home</a> &mdash; <a href="/categories.html">Categories</a> &mdash; <a href="/tags.html">Tags</a></nav>
+      <p>
+        <span class="credits">&copy; {{ site.time | date: '%Y' }} <a href="https://github.com/davidgtonge">Dave Tonge</a></span><br />
+        <span class="credits">Hosted on <a href="http://pages.github.com/">GitHub Pages</a> &mdash; Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> &mdash; Theme Adapted from <a href="http://twitter.com/#!/michigangraham">mattgraham</a></span>
+      </p>
+
+    </div>
+
+
+  </footer>
+
+    {% include JB/analytics %}
+  </body>
+</html>
