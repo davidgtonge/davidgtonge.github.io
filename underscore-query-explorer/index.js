@@ -2,6 +2,12 @@
 (function() {
   alert("update");
 
-  $.getJSON("all.json", function(data) {});
+  $.getJSON("all.json", function(data) {
+    console.log(data[0]);
+    $('h3').after("<textarea>\n{ \"geo.Area.total.quantity\": 180 }\n</textarea>\n<button id=\"filter\">Filter</button>\n");
+    return $('#filter').click(function() {
+      return console.log(JSON.parse($('textarea').val()));
+    });
+  });
 
 }).call(this);
