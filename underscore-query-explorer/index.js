@@ -3,10 +3,26 @@
   alert("update");
 
   $.getJSON("all.json", function(data) {
+    var $json, $summary;
+
     console.log(data[0]);
-    $('h3').after("<textarea>\n{ \"geo.Area.total.quantity\": 180 }\n</textarea>\n<button id=\"filter\">Filter</button>\n");
+    $('h3').after("<textarea style=\"width:100%; height:60px;\">\n{ \"geo.Area.total.quantity\": 180 }\n</textarea>\n<button id=\"filter\">Filter</button>\n<div id=\"resultSummary\"></div>\n<div><pre><code id=\"resultJSON\"></code></pre></div>");
+    $summary = $('#resultSummary');
+    $json = $('#resultJSON');
     return $('#filter').click(function() {
-      return console.log(JSON.parse($('textarea').val()));
+      var query, results, start, time;
+
+      query = JSON.parse($('textarea').val());
+      start = +(new Date);
+      results = _.query(data, query);
+      time = (+(new Date)) - start;
+      if (results.length) {
+        $summary = "" + results.length + " Results Found. " + data.length + " countries queried in " + time + "ms. First result below.";
+        return $json.html(JSON.stringify(results[0], null, 2));
+      } else {
+        $summary = "No Results Found. " + data.length + " countries queried in " + time + "ms";
+        return $json.empty();
+      }
     });
   });
 
