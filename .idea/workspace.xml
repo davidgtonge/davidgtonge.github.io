@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4786deb9-e893-4033-a747-a1dd2137c80c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2013-04-01-new-jekyll-powered-blog.md" />
-      <change type="DELETED" beforePath="C:\sites\davidgtonge.github.io\_posts\2013-04-07-new-jekyll-powered-blog.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-04-07-underscore-query.md" afterPath="$PROJECT_DIR$/_posts/2013-04-07-underscore-query.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/themes/dave/stylesheets/styles.css" afterPath="$PROJECT_DIR$/assets/themes/dave/stylesheets/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="davidgtonge.github.io.iws" />
@@ -14,15 +13,19 @@
     <file path="/page.html" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365358042841" ignored="false" />
     <file path="/post.html" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365358046163" ignored="false" />
     <file path="/_config.yml" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365364280033" ignored="false" />
-    <file path="/styles.css" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365363255393" ignored="false" />
+    <file path="/styles.css" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365456725866" ignored="false" />
     <file path="/2013-04-07-new-jekyll-powered-blog.md" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365367569139" ignored="false" />
     <file path="/index.md" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365367051974" ignored="false" />
     <file path="/2013-04-07-underscore-query.md" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365455855274" ignored="false" />
-    <file path="/Dummy.txt" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365452735608" ignored="false" />
+    <file path="/Dummy.txt" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365455926878" ignored="false" />
     <file path="$PROJECT_DIR$/../underscore-query/src/underscore-query.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365453346665" ignored="false" />
     <file path="/underscore-query.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365452819184" ignored="false" />
     <file path="$PROJECT_DIR$/../underscore-query/test/test.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365454464611" ignored="false" />
     <file path="/test.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365454221610" ignored="false" />
+    <file path="$PROJECT_DIR$/../yct2/userApp/app/widgets/templates/compare.hbs" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365456126504" ignored="false" />
+    <file path="/compare.hbs" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365456121570" ignored="false" />
+    <file path="$PROJECT_DIR$/../yct2/www/wp-content/themes/yct/css/app.css" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365456628813" ignored="false" />
+    <file path="$PROJECT_DIR$/../yct2/www/wp-content/themes/yct/index.html" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365456628813" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,22 +132,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2013-04-07-underscore-query.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="2013-04-07-underscore-query.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2013-04-07-underscore-query.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="143" column="0" selection-start="6505" selection-end="6505" vertical-scroll-proportion="0.9339806">
+            <state line="49" column="0" selection-start="2246" selection-end="2246" vertical-scroll-proportion="-16.32">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pages_list" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/JB/pages_list">
+      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/themes/dave/stylesheets/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="629" column="12" selection-start="14391" selection-end="14391" vertical-scroll-proportion="0.67741936">
               <folding />
             </state>
           </provider>
@@ -200,7 +203,6 @@
         <option value="$PROJECT_DIR$/_layouts/page.html" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_includes/themes/dave/page.html" />
-        <option value="$PROJECT_DIR$/assets/themes/dave/stylesheets/styles.css" />
         <option value="$PROJECT_DIR$/_site/archive.html" />
         <option value="$PROJECT_DIR$/_site/404.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
@@ -210,6 +212,7 @@
         <option value="$PROJECT_DIR$/_includes/themes/dave/post.html" />
         <option value="$PROJECT_DIR$/_posts/2013-04-07-new-jekyll-powered-blog.md" />
         <option value="$PROJECT_DIR$/_posts/2013-04-07-underscore-query.md" />
+        <option value="$PROJECT_DIR$/assets/themes/dave/stylesheets/styles.css" />
       </list>
     </option>
   </component>
@@ -304,6 +307,10 @@
               <option name="myItemId" value="dave" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -328,6 +335,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="davidgtonge.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="davidgtonge.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dave" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -529,7 +558,11 @@
       <created>1365367155727</created>
       <updated>1365367155727</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added hacker news button">
+      <created>1365455877422</created>
+      <updated>1365455877423</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -545,6 +578,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="RESTClient" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -555,7 +589,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -619,13 +652,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/categories.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/404.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -735,7 +761,14 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="143" column="0" selection-start="6505" selection-end="6505" vertical-scroll-proportion="0.9339806">
+        <state line="49" column="0" selection-start="2246" selection-end="2246" vertical-scroll-proportion="-16.32">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/themes/dave/stylesheets/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="629" column="12" selection-start="14391" selection-end="14391" vertical-scroll-proportion="0.67741936">
           <folding />
         </state>
       </provider>

@@ -66,6 +66,7 @@ I've found this type of API to be a far more useful than have to call methods wi
 arguments.
 
 For `underscore query` I've implemeneted something similar. Where as before you would query like this:
+
 ```javascript
 _.query(collection, {
   $and:{
@@ -78,6 +79,7 @@ _.query(collection, {
 });
 ```
 You can now query like this:
+
 ```javascript
 _.query(collection)
   .and("status","published")
@@ -88,6 +90,7 @@ _.query(collection)
 
 I think the 2nd version is more readable and easier to use. It also enables some features that were not possible with
 the old version. For example using the same query for multiple collections:
+
 ```javascript
 var query = _.query().and("likes",{$gt:10})
 var resultsA = query(collectionA)
