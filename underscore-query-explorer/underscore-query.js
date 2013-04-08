@@ -55,6 +55,7 @@
           out = out[key];
         }
       }
+      console.log(out, keyArray, obj);
       return out;
     };
   };

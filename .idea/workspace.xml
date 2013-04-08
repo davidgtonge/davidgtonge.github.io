@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4786deb9-e893-4033-a747-a1dd2137c80c" name="Default" comment="updating underscore explorer">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/underscore-query-explorer/highlight.pack.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/underscore-query-explorer/index.coffee" afterPath="$PROJECT_DIR$/underscore-query-explorer/index.coffee" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/underscore-query-explorer/index.js" afterPath="$PROJECT_DIR$/underscore-query-explorer/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/underscore-query-explorer/index.md" afterPath="$PROJECT_DIR$/underscore-query-explorer/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/underscore-query-explorer/underscore-query.js" afterPath="$PROJECT_DIR$/underscore-query-explorer/underscore-query.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="davidgtonge.github.io.iws" />
@@ -19,27 +18,27 @@
     <file path="/2013-04-07-new-jekyll-powered-blog.md" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365367569139" ignored="false" />
     <file path="/index.md" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365462431233" ignored="false" />
     <file path="/2013-04-07-underscore-query.md" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365455855274" ignored="false" />
-    <file path="/Dummy.txt" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365462539690" ignored="false" />
-    <file path="$PROJECT_DIR$/../underscore-query/src/underscore-query.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365453346665" ignored="false" />
-    <file path="/underscore-query.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365452819184" ignored="false" />
+    <file path="/Dummy.txt" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365464544789" ignored="false" />
+    <file path="$PROJECT_DIR$/../underscore-query/src/underscore-query.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365464733122" ignored="false" />
+    <file path="/underscore-query.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365464733122" ignored="false" />
     <file path="$PROJECT_DIR$/../underscore-query/test/test.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365454464611" ignored="false" />
     <file path="/test.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365454221610" ignored="false" />
     <file path="$PROJECT_DIR$/../yct2/userApp/app/widgets/templates/compare.hbs" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365457612167" ignored="false" />
     <file path="/compare.hbs" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365457612167" ignored="false" />
     <file path="$PROJECT_DIR$/../yct2/www/wp-content/themes/yct/css/app.css" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365458567323" ignored="false" />
-    <file path="$PROJECT_DIR$/../yct2/www/wp-content/themes/yct/index.html" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365458567323" ignored="false" />
+    <file path="$PROJECT_DIR$/../yct2/www/wp-content/themes/yct/index.html" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365464236771" ignored="false" />
     <file path="$PROJECT_DIR$/../yct2/userApp/app/widgets/compare.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365457095919" ignored="false" />
     <file path="/compare.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365457082301" ignored="false" />
-    <file path="$PROJECT_DIR$/../yct2/userApp/app/views/styles/application.styl" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365458526205" ignored="false" />
-    <file path="/application.styl" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365458521367" ignored="false" />
-    <file path="/upload.bat" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365459087579" ignored="false" />
-    <file path="$PROJECT_DIR$/../yct2/upload.bat" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365459087579" ignored="false" />
+    <file path="$PROJECT_DIR$/../yct2/userApp/app/views/styles/application.styl" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365464172221" ignored="false" />
+    <file path="/application.styl" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365463831652" ignored="false" />
+    <file path="/upload.bat" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365463598039" ignored="false" />
+    <file path="$PROJECT_DIR$/../yct2/upload.bat" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365463605666" ignored="false" />
     <file path="/index.html" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365460038280" ignored="false" />
     <file path="$PROJECT_DIR$/../underscore-query/lib/underscore-query.js" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365461151859" ignored="false" />
     <file path="$PROJECT_DIR$/../underscore-query/lib/underscore-query.min.js" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365461151859" ignored="false" />
-    <file path="/index.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365462632468" ignored="false" />
+    <file path="/index.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365464542854" ignored="false" />
     <file path="$PROJECT_DIR$/../underscore-query/Cakefile" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365461143784" ignored="false" />
-    <file path="/underscore-query.js" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365461015053" ignored="false" />
+    <file path="/underscore-query.js" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365464764075" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,19 +157,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.coffee" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/underscore-query-explorer/index.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="34" selection-start="614" selection-end="614" vertical-scroll-proportion="0.59814817">
+            <state line="22" column="33" selection-start="752" selection-end="752" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="underscore-query.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="underscore-query.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/underscore-query-explorer/underscore-query.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="432" column="9" selection-start="11882" selection-end="11882" vertical-scroll-proportion="0.0">
+            <state line="57" column="38" selection-start="1683" selection-end="1683" vertical-scroll-proportion="0.9354839">
               <folding />
             </state>
           </provider>
@@ -225,9 +224,9 @@
         <option value="$PROJECT_DIR$/Underscore Query Explorer/underscore.min.js" />
         <option value="$PROJECT_DIR$/Underscore Query Explorer/index.html" />
         <option value="$PROJECT_DIR$/Underscore Query Explorer/index.coffee" />
-        <option value="$PROJECT_DIR$/underscore-query-explorer/underscore-query.js" />
         <option value="$PROJECT_DIR$/underscore-query-explorer/index.md" />
         <option value="$PROJECT_DIR$/underscore-query-explorer/index.coffee" />
+        <option value="$PROJECT_DIR$/underscore-query-explorer/underscore-query.js" />
       </list>
     </option>
   </component>
@@ -544,7 +543,11 @@
       <created>1365461872350</created>
       <updated>1365461872350</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="updating underscore explorer">
+      <created>1365463041198</created>
+      <updated>1365463041198</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -738,13 +741,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/underscore-query-explorer/underscore-query.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="432" column="9" selection-start="11882" selection-end="11882" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/underscore-query-explorer/index.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="22" selection-start="204" selection-end="204" vertical-scroll-proportion="-5.8846154">
@@ -754,7 +750,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/underscore-query-explorer/index.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="34" selection-start="614" selection-end="614" vertical-scroll-proportion="0.59814817">
+        <state line="22" column="33" selection-start="752" selection-end="752" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/underscore-query-explorer/underscore-query.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="38" selection-start="1683" selection-end="1683" vertical-scroll-proportion="0.9354839">
           <folding />
         </state>
       </provider>

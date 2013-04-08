@@ -4,7 +4,7 @@
     var $json, $query, $summary;
 
     window.jsondata = data;
-    $('h3').after("<textarea style=\"width:100%; height:60px;\">\n{ \"geo.Area.total.quantity\": 180 }\n</textarea>\n<button id=\"filter\">Filter</button>\n<span>Your Query:</span>\n<div><pre><code id=\"query\"></code></pre></div>\n<div id=\"resultSummary\"></div>\n<div><pre><code id=\"resultJSON\"></code></pre></div>");
+    $('h3').after("<textarea style=\"width:100%; height:60px;\">\n{ \"geo.Area.total.quantity\": 180 }\n</textarea>\n<button id=\"filter\">Filter</button>\n<span>Your Query:</span>\n<div><pre><code class=\"javascript\" id=\"query\"></code></pre></div>\n<div id=\"resultSummary\"></div>\n<div><pre><code class=\"javascript\" id=\"resultJSON\"></code></pre></div>");
     $summary = $('#resultSummary');
     $query = $('#query');
     $json = $('#resultJSON');

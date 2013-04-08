@@ -6,9 +6,9 @@ $.getJSON "all.json", (data) ->
   </textarea>
   <button id="filter">Filter</button>
   <span>Your Query:</span>
-  <div><pre><code id="query"></code></pre></div>
+  <div><pre><code class="javascript" id="query"></code></pre></div>
   <div id="resultSummary"></div>
-  <div><pre><code id="resultJSON"></code></pre></div>
+  <div><pre><code class="javascript" id="resultJSON"></code></pre></div>
   """
 
   $summary = $('#resultSummary')
