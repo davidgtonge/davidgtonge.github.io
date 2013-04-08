@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Underscure Query Explorer"
+title: "Underscore Query Explorer"
 description: ""
 ---
 {% include JB/setup %}

@@ -2,4 +2,6 @@
 (function() {
   alert("update");
 
+  $.getJSON("all.json", function(data) {});
+
 }).call(this);
