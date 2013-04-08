@@ -16,7 +16,7 @@
     <file path="/2013-04-07-new-jekyll-powered-blog.md" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365367569139" ignored="false" />
     <file path="/index.md" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365460433721" ignored="false" />
     <file path="/2013-04-07-underscore-query.md" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365455855274" ignored="false" />
-    <file path="/Dummy.txt" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365460865450" ignored="false" />
+    <file path="/Dummy.txt" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365461038506" ignored="false" />
     <file path="$PROJECT_DIR$/../underscore-query/src/underscore-query.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365453346665" ignored="false" />
     <file path="/underscore-query.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365452819184" ignored="false" />
     <file path="$PROJECT_DIR$/../underscore-query/test/test.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365454464611" ignored="false" />
@@ -32,10 +32,10 @@
     <file path="/upload.bat" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365459087579" ignored="false" />
     <file path="$PROJECT_DIR$/../yct2/upload.bat" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365459087579" ignored="false" />
     <file path="/index.html" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365460038280" ignored="false" />
-    <file path="$PROJECT_DIR$/../underscore-query/lib/underscore-query.js" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365460850293" ignored="false" />
-    <file path="$PROJECT_DIR$/../underscore-query/lib/underscore-query.min.js" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365460850293" ignored="false" />
+    <file path="$PROJECT_DIR$/../underscore-query/lib/underscore-query.js" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365461151859" ignored="false" />
+    <file path="$PROJECT_DIR$/../underscore-query/lib/underscore-query.min.js" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365461151859" ignored="false" />
     <file path="/index.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365460694499" ignored="false" />
-    <file path="$PROJECT_DIR$/../underscore-query/Cakefile" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365460813066" ignored="false" />
+    <file path="$PROJECT_DIR$/../underscore-query/Cakefile" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365461143784" ignored="false" />
     <file path="/underscore-query.js" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365461015053" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -155,19 +155,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.coffee" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/underscore-query-explorer/index.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="26" selection-start="192" selection-end="192" vertical-scroll-proportion="0.28333333">
+            <state line="9" column="26" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="underscore-query.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="underscore-query.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/underscore-query-explorer/underscore-query.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="14" selection-start="829" selection-end="829" vertical-scroll-proportion="0.0">
+            <state line="432" column="9" selection-start="11882" selection-end="11882" vertical-scroll-proportion="0.9354839">
               <folding />
             </state>
           </provider>
@@ -525,7 +525,11 @@
       <created>1365460869779</created>
       <updated>1365460869779</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="updating underscore">
+      <created>1365461040510</created>
+      <updated>1365461040510</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -594,7 +598,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="new page - underscore query explorer" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating underscore" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -612,6 +616,7 @@
     <MESSAGE value="Added hacker news button" />
     <MESSAGE value="adjusting code style" />
     <MESSAGE value="new page - underscore query explorer" />
+    <MESSAGE value="updating underscore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -717,13 +722,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/underscore-query-explorer/underscore-query.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="14" selection-start="829" selection-end="829" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/underscore-query-explorer/index.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="24" selection-start="240" selection-end="240" vertical-scroll-proportion="-7.1923075">
@@ -733,7 +731,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/underscore-query-explorer/index.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="26" selection-start="192" selection-end="192" vertical-scroll-proportion="0.28333333">
+        <state line="9" column="26" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/underscore-query-explorer/underscore-query.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="432" column="9" selection-start="11882" selection-end="11882" vertical-scroll-proportion="0.9354839">
           <folding />
         </state>
       </provider>
