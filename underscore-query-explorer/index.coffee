@@ -1,7 +1,5 @@
-alert "update"
-
 $.getJSON "all.json", (data) ->
-  console.log data[0]
+  window.jsondata = data
   $('h3').after """
   <textarea style="width:100%; height:60px;">
   { "geo.Area.total.quantity": 180 }
@@ -15,9 +13,11 @@ $.getJSON "all.json", (data) ->
   $json = $('#resultJSON')
   $('#filter').click ->
     query = JSON.parse($('textarea').val())
+    console.log "running query with", query
     start = +new Date
     results = _.query data, query
     time = (+new Date) - start
+    console.log time, results.length
     if results.length
       $summary = "#{results.length} Results Found. #{data.length} countries queried in #{time}ms. First result below."
       $json.html JSON.stringify results[0], null, 2

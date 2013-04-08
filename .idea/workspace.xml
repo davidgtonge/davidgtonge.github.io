@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4786deb9-e893-4033-a747-a1dd2137c80c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/underscore-query-explorer/index.coffee" afterPath="$PROJECT_DIR$/underscore-query-explorer/index.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/underscore-query-explorer/index.js" afterPath="$PROJECT_DIR$/underscore-query-explorer/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="davidgtonge.github.io.iws" />
@@ -16,7 +17,7 @@
     <file path="/2013-04-07-new-jekyll-powered-blog.md" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365367569139" ignored="false" />
     <file path="/index.md" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365460433721" ignored="false" />
     <file path="/2013-04-07-underscore-query.md" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365455855274" ignored="false" />
-    <file path="/Dummy.txt" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365461180730" ignored="false" />
+    <file path="/Dummy.txt" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365461635282" ignored="false" />
     <file path="$PROJECT_DIR$/../underscore-query/src/underscore-query.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365453346665" ignored="false" />
     <file path="/underscore-query.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365452819184" ignored="false" />
     <file path="$PROJECT_DIR$/../underscore-query/test/test.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365454464611" ignored="false" />
@@ -34,7 +35,7 @@
     <file path="/index.html" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365460038280" ignored="false" />
     <file path="$PROJECT_DIR$/../underscore-query/lib/underscore-query.js" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365461151859" ignored="false" />
     <file path="$PROJECT_DIR$/../underscore-query/lib/underscore-query.min.js" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365461151859" ignored="false" />
-    <file path="/index.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365461592661" ignored="false" />
+    <file path="/index.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365461856529" ignored="false" />
     <file path="$PROJECT_DIR$/../underscore-query/Cakefile" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365461143784" ignored="false" />
     <file path="/underscore-query.js" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365461015053" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -158,7 +159,7 @@
       <file leaf-file-name="index.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/underscore-query-explorer/index.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="839" selection-end="839" vertical-scroll-proportion="0.8185185">
+            <state line="1" column="24" selection-start="56" selection-end="56" vertical-scroll-proportion="0.031481482">
               <folding />
             </state>
           </provider>
@@ -533,7 +534,11 @@
       <created>1365461182810</created>
       <updated>1365461182810</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="updating underscore">
+      <created>1365461639094</created>
+      <updated>1365461639094</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -742,7 +747,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/underscore-query-explorer/index.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="839" selection-end="839" vertical-scroll-proportion="0.8185185">
+        <state line="1" column="24" selection-start="56" selection-end="56" vertical-scroll-proportion="0.031481482">
           <folding />
         </state>
       </provider>
