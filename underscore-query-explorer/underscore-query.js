@@ -427,4 +427,4 @@ _.mixin({
   query: runQuery
 });
 
-}).call(this);
+})(this);
