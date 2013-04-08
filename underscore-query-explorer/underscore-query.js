@@ -1,5 +1,6 @@
 (function (root) {
   var require = root.require || function(name) { return root[name]; };
+  console.log(require);
   /*
 Underscore Query - A lightweight query API for JavaScript collections
 (c)2012 - Dave Tonge
@@ -14,6 +15,7 @@ var buildQuery, iterator, key, parseQuery, parseSubQuery, performQuery, runQuery
   __indexOf = [].indexOf || function(item) { for (var i = 0, l = this.length; i < l; i++) { if (i in this && this[i] === item) return i; } return -1; };
 
 _ = require('underscore');
+console.log(_)
 
 /* UTILS
 */

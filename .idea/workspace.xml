@@ -16,7 +16,7 @@
     <file path="/2013-04-07-new-jekyll-powered-blog.md" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365367569139" ignored="false" />
     <file path="/index.md" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365460433721" ignored="false" />
     <file path="/2013-04-07-underscore-query.md" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365455855274" ignored="false" />
-    <file path="/Dummy.txt" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365460723942" ignored="false" />
+    <file path="/Dummy.txt" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365460865450" ignored="false" />
     <file path="$PROJECT_DIR$/../underscore-query/src/underscore-query.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365453346665" ignored="false" />
     <file path="/underscore-query.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365452819184" ignored="false" />
     <file path="$PROJECT_DIR$/../underscore-query/test/test.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365454464611" ignored="false" />
@@ -36,6 +36,7 @@
     <file path="$PROJECT_DIR$/../underscore-query/lib/underscore-query.min.js" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365460850293" ignored="false" />
     <file path="/index.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365460694499" ignored="false" />
     <file path="$PROJECT_DIR$/../underscore-query/Cakefile" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365460813066" ignored="false" />
+    <file path="/underscore-query.js" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365461015053" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,19 +155,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.coffee" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/underscore-query-explorer/index.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="21" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0">
+            <state line="9" column="26" selection-start="192" selection-end="192" vertical-scroll-proportion="0.28333333">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="underscore-query.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="underscore-query.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/underscore-query-explorer/underscore-query.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="429" column="14" selection-start="11050" selection-end="11050" vertical-scroll-proportion="0.8064516">
+            <state line="17" column="14" selection-start="829" selection-end="829" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -208,7 +209,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/_includes/themes/dave/page.html" />
         <option value="$PROJECT_DIR$/_site/archive.html" />
         <option value="$PROJECT_DIR$/_site/404.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
@@ -224,6 +224,7 @@
         <option value="$PROJECT_DIR$/Underscore Query Explorer/index.coffee" />
         <option value="$PROJECT_DIR$/underscore-query-explorer/index.md" />
         <option value="$PROJECT_DIR$/underscore-query-explorer/index.coffee" />
+        <option value="$PROJECT_DIR$/underscore-query-explorer/underscore-query.js" />
       </list>
     </option>
   </component>
@@ -520,7 +521,11 @@
       <created>1365460727403</created>
       <updated>1365460727403</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="new page - underscore query explorer">
+      <created>1365460869779</created>
+      <updated>1365460869779</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -705,13 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/underscore-query-explorer/index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="24" selection-start="240" selection-end="240" vertical-scroll-proportion="-7.1923075">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/underscore-query-explorer/all.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="26" selection-start="863" selection-end="908" vertical-scroll-proportion="0.0">
@@ -719,16 +717,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/underscore-query-explorer/index.coffee">
+    <entry file="file://$PROJECT_DIR$/underscore-query-explorer/underscore-query.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="21" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0">
+        <state line="17" column="14" selection-start="829" selection-end="829" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/underscore-query-explorer/underscore-query.js">
+    <entry file="file://$PROJECT_DIR$/underscore-query-explorer/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="429" column="14" selection-start="11050" selection-end="11050" vertical-scroll-proportion="0.8064516">
+        <state line="11" column="24" selection-start="240" selection-end="240" vertical-scroll-proportion="-7.1923075">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/underscore-query-explorer/index.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="26" selection-start="192" selection-end="192" vertical-scroll-proportion="0.28333333">
           <folding />
         </state>
       </provider>
