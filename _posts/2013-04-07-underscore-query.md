@@ -136,6 +136,7 @@ var Collection = Backbone.Collection.extend({
 The above code implements a `setFilter` method which accepts a *parent* collection and a query object. The idea is that
 the filtered collection will contain a continually updated filtered sub-set of the parent collection's models. Here's
 a breakdown of what the above code does:
+
 1. Parses the supplied query object (rather than re-parsing it on each query operation)
 2. Creates a `check` function that will be used to determine if indivudal model's should be in the collection
 3. Sets up events on the parent collection listening to the `add`, `remove` and `change` events. These events ensure that
