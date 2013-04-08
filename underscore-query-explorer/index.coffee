@@ -5,23 +5,29 @@ $.getJSON "all.json", (data) ->
   { "geo.Area.total.quantity": 180 }
   </textarea>
   <button id="filter">Filter</button>
+  <span>Your Query:</span>
+  <div><pre><code id="query"></code></pre></div>
   <div id="resultSummary"></div>
   <div><pre><code id="resultJSON"></code></pre></div>
   """
 
   $summary = $('#resultSummary')
+  $query = $('#query')
   $json = $('#resultJSON')
   $('#filter').click ->
     query = JSON.parse($('textarea').val())
+    $query.html JSON.stringify(query, null, 4)
+    hljs.highlightBlock($query[0])
     console.log "running query with", query
     start = +new Date
     results = _.query data, query
     time = (+new Date) - start
     console.log time, results.length
     if results.length
-      $summary = "#{results.length} Results Found. #{data.length} countries queried in #{time}ms. First result below."
-      $json.html JSON.stringify results[0], null, 2
+      $summary.html "#{results.length} Results Found. #{data.length} countries queried in #{time}ms. First result below."
+      $json.html JSON.stringify results[0], null, 4
+      hljs.highlightBlock($json[0])
     else
-      $summary = "No Results Found. #{data.length} countries queried in #{time}ms"
+      $summary.html "No Results Found. #{data.length} countries queried in #{time}ms"
       $json.empty()
 
