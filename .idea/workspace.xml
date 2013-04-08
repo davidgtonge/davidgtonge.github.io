@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4786deb9-e893-4033-a747-a1dd2137c80c" name="Default" comment="updating underscore explorer">
+    <list default="true" id="4786deb9-e893-4033-a747-a1dd2137c80c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/underscore-query-explorer/index.coffee" afterPath="$PROJECT_DIR$/underscore-query-explorer/index.coffee" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/underscore-query-explorer/index.js" afterPath="$PROJECT_DIR$/underscore-query-explorer/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/themes/dave/stylesheets/pygment_trac.css" afterPath="$PROJECT_DIR$/assets/themes/dave/stylesheets/pygment_trac.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/underscore-query-explorer/underscore-query.js" afterPath="$PROJECT_DIR$/underscore-query-explorer/underscore-query.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -18,8 +19,8 @@
     <file path="/2013-04-07-new-jekyll-powered-blog.md" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365367569139" ignored="false" />
     <file path="/index.md" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365462431233" ignored="false" />
     <file path="/2013-04-07-underscore-query.md" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365455855274" ignored="false" />
-    <file path="/Dummy.txt" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365464544789" ignored="false" />
-    <file path="$PROJECT_DIR$/../underscore-query/src/underscore-query.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365464733122" ignored="false" />
+    <file path="/Dummy.txt" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365464768709" ignored="false" />
+    <file path="$PROJECT_DIR$/../underscore-query/src/underscore-query.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365465175493" ignored="false" />
     <file path="/underscore-query.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365464733122" ignored="false" />
     <file path="$PROJECT_DIR$/../underscore-query/test/test.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365454464611" ignored="false" />
     <file path="/test.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365454221610" ignored="false" />
@@ -36,9 +37,10 @@
     <file path="/index.html" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365460038280" ignored="false" />
     <file path="$PROJECT_DIR$/../underscore-query/lib/underscore-query.js" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365461151859" ignored="false" />
     <file path="$PROJECT_DIR$/../underscore-query/lib/underscore-query.min.js" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365461151859" ignored="false" />
-    <file path="/index.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365464542854" ignored="false" />
+    <file path="/index.coffee" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365465406326" ignored="false" />
     <file path="$PROJECT_DIR$/../underscore-query/Cakefile" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365461143784" ignored="false" />
     <file path="/underscore-query.js" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365464764075" ignored="false" />
+    <file path="/pygment_trac.css" changelist="4786deb9-e893-4033-a747-a1dd2137c80c" time="1365465305039" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,15 +99,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="194" selection-end="280" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="post.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/themes/dave/post.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -157,19 +150,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.coffee" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/underscore-query-explorer/index.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="33" selection-start="752" selection-end="752" vertical-scroll-proportion="0.0">
+            <state line="29" column="6" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.8740741">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="underscore-query.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="underscore-query.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/underscore-query-explorer/underscore-query.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="38" selection-start="1683" selection-end="1683" vertical-scroll-proportion="0.9354839">
+            <state line="56" column="7" selection-start="1644" selection-end="1644" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pygment_trac.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/themes/dave/stylesheets/pygment_trac.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="54" column="18" selection-start="3345" selection-end="3345" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -211,7 +213,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/_site/archive.html" />
         <option value="$PROJECT_DIR$/_site/404.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/index.md" />
@@ -225,8 +226,9 @@
         <option value="$PROJECT_DIR$/Underscore Query Explorer/index.html" />
         <option value="$PROJECT_DIR$/Underscore Query Explorer/index.coffee" />
         <option value="$PROJECT_DIR$/underscore-query-explorer/index.md" />
-        <option value="$PROJECT_DIR$/underscore-query-explorer/index.coffee" />
         <option value="$PROJECT_DIR$/underscore-query-explorer/underscore-query.js" />
+        <option value="$PROJECT_DIR$/assets/themes/dave/stylesheets/pygment_trac.css" />
+        <option value="$PROJECT_DIR$/underscore-query-explorer/index.coffee" />
       </list>
     </option>
   </component>
@@ -293,6 +295,72 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="underscore-query-explorer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="davidgtonge.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="davidgtonge.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="davidgtonge.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="davidgtonge.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dave" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="davidgtonge.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="davidgtonge.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dave" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -547,7 +615,11 @@
       <created>1365463041198</created>
       <updated>1365463041198</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="updating underscore explorer">
+      <created>1365464771850</created>
+      <updated>1365464771850</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -641,13 +713,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/JB/categories_list">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/JB/posts_collate">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -748,16 +813,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/underscore-query-explorer/index.coffee">
+    <entry file="file://$PROJECT_DIR$/underscore-query-explorer/underscore-query.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="33" selection-start="752" selection-end="752" vertical-scroll-proportion="0.0">
+        <state line="56" column="7" selection-start="1644" selection-end="1644" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/underscore-query-explorer/underscore-query.js">
+    <entry file="file://$PROJECT_DIR$/assets/themes/dave/stylesheets/pygment_trac.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="38" selection-start="1683" selection-end="1683" vertical-scroll-proportion="0.9354839">
+        <state line="54" column="18" selection-start="3345" selection-end="3345" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/underscore-query-explorer/index.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="6" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.8740741">
           <folding />
         </state>
       </provider>

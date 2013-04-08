@@ -6,9 +6,9 @@ $.getJSON "all.json", (data) ->
   </textarea>
   <button id="filter">Filter</button>
   <span>Your Query:</span>
-  <div><pre><code class="javascript" id="query"></code></pre></div>
-  <div id="resultSummary"></div>
-  <div><pre><code class="javascript" id="resultJSON"></code></pre></div>
+  <div class="highlight"><pre><code class="javascript" id="query"></code></pre></div>
+  <p id="resultSummary"></p>
+  <div class="highlight"><pre><code class="javascript" id="resultJSON"></code></pre></div>
   """
 
   $summary = $('#resultSummary')
@@ -18,13 +18,16 @@ $.getJSON "all.json", (data) ->
     query = JSON.parse($('textarea').val())
     $query.html JSON.stringify(query, null, 4)
     hljs.highlightBlock($query[0])
-    console.log "running query with", query
     start = +new Date
     results = _.query data, query
     time = (+new Date) - start
-    console.log time, results.length
     if results.length
-      $summary.html "#{results.length} Results Found. #{data.length} countries queried in #{time}ms. First result below."
+      countries = _.pluck results, "name"
+      $summary.html """
+        #{results.length} Results Found. #{data.length} countries queried in #{time}ms. <br />
+        Countries found: #{countries.join ", "}<br />
+        First result below.
+      """
       $json.html JSON.stringify results[0], null, 4
       hljs.highlightBlock($json[0])
     else
