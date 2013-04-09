@@ -2,7 +2,7 @@ $.getJSON "all.json", (data) ->
   window.jsondata = data
   $('h3').after """
   <textarea style="width:100%; height:60px;">
-  { "geo.Area.total.quantity": 180 }
+    _.query(jsondata).and({code:"aa"}).find()
   </textarea>
   <button id="filter">Filter</button>
   <span>Your Query:</span>
@@ -15,11 +15,11 @@ $.getJSON "all.json", (data) ->
   $query = $('#query')
   $json = $('#resultJSON')
   $('#filter').click ->
-    query = JSON.parse($('textarea').val())
-    $query.html JSON.stringify(query, null, 4)
+    query = $('textarea').val()
+    $query.html query
     hljs.highlightBlock($query[0])
     start = +new Date
-    results = _.query data, query
+    results = eval query
     time = (+new Date) - start
     if results.length
       countries = _.pluck results, "name"

@@ -4,18 +4,18 @@
     var $json, $query, $summary;
 
     window.jsondata = data;
-    $('h3').after("<textarea style=\"width:100%; height:60px;\">\n{ \"geo.Area.total.quantity\": 180 }\n</textarea>\n<button id=\"filter\">Filter</button>\n<span>Your Query:</span>\n<div class=\"highlight\"><pre><code class=\"javascript\" id=\"query\"></code></pre></div>\n<p id=\"resultSummary\"></p>\n<div class=\"highlight\"><pre><code class=\"javascript\" id=\"resultJSON\"></code></pre></div>");
+    $('h3').after("<textarea style=\"width:100%; height:60px;\">\n  _.query(jsondata).and({code:\"aa\"}).find()\n</textarea>\n<button id=\"filter\">Filter</button>\n<span>Your Query:</span>\n<div class=\"highlight\"><pre><code class=\"javascript\" id=\"query\"></code></pre></div>\n<p id=\"resultSummary\"></p>\n<div class=\"highlight\"><pre><code class=\"javascript\" id=\"resultJSON\"></code></pre></div>");
     $summary = $('#resultSummary');
     $query = $('#query');
     $json = $('#resultJSON');
     return $('#filter').click(function() {
       var countries, query, results, start, time;
 
-      query = JSON.parse($('textarea').val());
-      $query.html(JSON.stringify(query, null, 4));
+      query = $('textarea').val();
+      $query.html(query);
       hljs.highlightBlock($query[0]);
       start = +(new Date);
-      results = _.query(data, query);
+      results = eval(query);
       time = (+(new Date)) - start;
       if (results.length) {
         countries = _.pluck(results, "name");
